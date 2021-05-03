@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffe86cc05",
+    "servers": [
+      {
+        "server_address": "192.168.1.158",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 36.842403,
+    "ref_longitude": 10.2011485,
+    "ref_altitude": 12,
+    "contact_email": "hafsinour97@gmail.com",
+    "description": "IC880A-Gateway"
+  }
+}
